@@ -6,7 +6,7 @@ Alle Effekte haben bereits eine voreingestellte Farbauswahl. Zudem sind alle Eff
 ## Verzeichnisstruktur
 
 - **Bilder**: Dieser Ordner enthält Bilder der WLED-Effekte.
-- **Effekte**: Dieser Ordner enthält die JSON-Konfigurationen (API-Commands) der WLED-Effekte.
+- **Effekte**: Dieser Ordner enthält die API-Commands (json) der WLED-Effekte.
 
 ## Installation
 
@@ -17,7 +17,7 @@ Alle Effekte haben bereits eine voreingestellte Farbauswahl. Zudem sind alle Eff
    
 3. Klicke dann wiederum auf das eben erstellte Preset, um Zugang zur API-Command zur bekommen.
    
-4. Füge hier nun den JSON-Code der entsprechenden Szene ein. Diesen findest du entweder in dem "JSON-Code"-Ordner, oder in dem Code Feld unter jedem Szenen Bild. 
+4. Füge hier nun den JSON-Code der entsprechenden Szene ein. Diesen findest du entweder in dem "API-Commands"-Ordner, oder in dem Code Feld unter jedem Szenen Bild. 
 **WICHTIG:** Es dürfen keine Leerzeichen im API-Command verbleiben, da dies sonst zu Abstürzen führen kann durch Syntaxfehler.
    
 5. Klicke anschließend auf "Speichern" und du bist fertig.
