@@ -1,11 +1,15 @@
 # WLED-Effekte
 
 In diesem Repository findest du verschiedene sorgfältig erstellte WLED-Effekte zusammen mit ihren JSON-Konfigurationen und passendem Szene Bild mit Farbpalette.
+Alle Effekte haben bereits eine voreingestellte Farbauswahl. Zudem sind alle Effekte ohne Segmenteinstellungen, sodass sie an jede beliebeige Wled Instanz anwendbar sein sollte. Du musst lediglich die Effekt Geschwindigkeit auf deinen Geschmack anpassen. 
 
 ## Verzeichnisstruktur
 
 - **Bilder**: Dieser Ordner enthält Bilder der WLED-Effekte.
 - **Effekte**: Dieser Ordner enthält die JSON-Konfigurationen der WLED-Effekte.
+
+## Installation
+
 
 ## WLED-Effekte
 
