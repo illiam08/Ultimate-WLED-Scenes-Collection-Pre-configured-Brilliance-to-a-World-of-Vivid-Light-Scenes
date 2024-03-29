@@ -16,7 +16,7 @@ In this repository, you will find various meticulously crafted WLED Scenes along
    
 3. Then, click on the newly created preset to access the API command.
    
-4. Now, paste the JSON code of the corresponding scene here. You can find it either in the "API Commands" folder or in the code field below each scene image. IMPORTANT: There should be no spaces remaining in the API command, as this may cause crashes due to syntax errors.
+4. Now, delete the old code and paste the JSON code of the corresponding scene here. You can find it either in the "API Commands" folder or in the code field below each scene image. IMPORTANT: There should be no spaces remaining in the API command, as this may cause crashes due to syntax errors.
    
 5. Finally, click on "Save", and you're done.
 
