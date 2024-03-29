@@ -163,13 +163,9 @@ Hier ist eine Liste der verfügbaren WLED-Effekte:
 {"bri":155,"seg":[{"id":0,"col":[[255,140,0],[255,165,0],[64,224,208]],"fx":63,"sx":45,"ix":215,"pal":5},{"id":1,"col":[[255,140,0],[255,165,0],[64,224,208]],"fx":63,"sx":45,"ix":215,"pal":5}]}
 ```
 
-Jeder Effekt wird von einem Bild begleitet, das eine Vorschau des Effekts zeigt. Die zugehörige JSON-Konfiguration ist ebenfalls verfügbar, um den Effekt in WLED zu reproduzieren.
 
-## Anleitung
 
-1. Lade die JSON-Konfiguration des gewünschten Effekts herunter.
-2. Öffne die WLED-Webanwendung und navigiere zum Abschnitt "Setup".
-3. Klicke auf "JSON Konfiguration laden" und wähle die heruntergeladene Datei aus.
-4. Speichere die Änderungen, um den Effekt zu übernehmen.
 
-Vielen Dank für die Nutzung dieser WLED-Effekte! Bei Fragen oder Anregungen stehe ich gerne zur Verfügung.
+
+
+
