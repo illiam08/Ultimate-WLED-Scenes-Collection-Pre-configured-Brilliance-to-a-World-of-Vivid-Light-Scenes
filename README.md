@@ -17,7 +17,8 @@ Alle Effekte haben bereits eine voreingestellte Farbauswahl. Zudem sind alle Eff
    
 3. Klicke dann wiederum auf das eben erstellte Preset, um Zugang zur API-Command zu bekommen.
    
-4. Füge hier nun den JSON-Code aus dem "JSON-Code"-Ordner ein. **WICHTIG:** Es dürfen keine Leerzeichen im API-Command verbleiben, da dies sonst zu Abstürzen führen kann durch Syntaxfehler.
+4. Füge hier nun den JSON-Code ein. Diesen findest du entweder in dem "JSON-Code"-Ordner, oder dem Code Feld unter jedem Szenen Bild. 
+**WICHTIG:** Es dürfen keine Leerzeichen im API-Command verbleiben, da dies sonst zu Abstürzen führen kann durch Syntaxfehler.
    
 5. Klicke anschließend auf "Speichern" und du bist fertig.
 
