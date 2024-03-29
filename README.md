@@ -1,36 +1,34 @@
 # WLED-Effekte
 ![Collage](/bilder/collage.png)
-In diesem Repository findest du verschiedene sorgfältig erstellte WLED-Effekte zusammen mit ihren JSON-Konfigurationen und passendem Szene Bild mit Farbpalette.
-Alle Effekte haben bereits eine voreingestellte Farbauswahl. Zudem sind alle Effekte ohne Segmenteinstellungen, sodass sie an jede beliebeige Wled Instanz anwendbar sein sollte. Du musst lediglich die Effekt Geschwindigkeit auf deinen Geschmack anpassen. 
+In this repository, you will find various meticulously crafted WLED effects along with their JSON configurations and corresponding scene images with color palettes. All effects come with preset color selections and are configured without segment settings, making them applicable to any WLED instance. You only need to adjust the effect speed according to your preference.
 
-## Verzeichnisstruktur
+## Directory Structure
 
-- **Bilder**: Dieser Ordner enthält Bilder der WLED-Effekte.
-- **API-Commands**: Dieser Ordner enthält die json Strukturen der WLED-Presets.
+- **Bilder**: This folder contains images of the WLED effects.
+- **API-Commands**: This folder contains the JSON structures of the WLED presets.
 
 ## Installation
 
 
-1. Gehe in deiner WLED-Weboberfläche auf die Preset-Seite.
+1. Go to the preset page in your WLED web interface.
    
-2. Klicke dann auf das "+"-Symbol, um ein neues Preset zu erstellen und ändere den Namen zur entsprechenden Szene.
+2. Click on the "+" symbol to create a new preset and change the name to the corresponding scene.
    
-3. Klicke dann wiederum auf das eben erstellte Preset, um Zugang zur API-Command zur bekommen.
+3. Then, click on the newly created preset to access the API command.
    
-4. Füge hier nun den JSON-Code der entsprechenden Szene ein. Diesen findest du entweder in dem "API-Commands"-Ordner, oder in dem Code Feld unter jedem Szenen Bild. 
-**WICHTIG:** Es dürfen keine Leerzeichen im API-Command verbleiben, da dies sonst zu Abstürzen führen kann durch Syntaxfehler.
+4. Now, paste the JSON code of the corresponding scene here. You can find it either in the "API Commands" folder or in the code field below each scene image. IMPORTANT: There should be no spaces remaining in the API command, as this may cause crashes due to syntax errors.
    
-5. Klicke anschließend auf "Speichern" und du bist fertig.
+5. Finally, click on "Save", and you're done.
 
-## WLED-Effekte
+## WLED-Effects
 
-Hier ist eine Liste der verfügbaren WLED-Effekte:
+Here is a list of available WLED effects:
 
 
 
 ##  **Sternennacht**: 
 
- Ein Effekt, der die Sterne einer klaren Nacht darstellt.
+An effect depicting the stars of a clear night.
 
   ![Sternennacht](/bilder/sternennacht.png)
 ```json
