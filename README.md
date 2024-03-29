@@ -6,7 +6,7 @@ Alle Effekte haben bereits eine voreingestellte Farbauswahl. Zudem sind alle Eff
 ## Verzeichnisstruktur
 
 - **Bilder**: Dieser Ordner enthält Bilder der WLED-Effekte.
-- **Effekte**: Dieser Ordner enthält die API-Commands (json) der WLED-Effekte.
+- **API-Commands**: Dieser Ordner enthält die json Strukturen der WLED-Presets.
 
 ## Installation
 
