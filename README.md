@@ -1,10 +1,10 @@
-# WLED-Effekte
+# WLED-SCENES
 ![Collage](/bilder/collage.png)
-In this repository, you will find various meticulously crafted WLED effects along with their JSON configurations and corresponding scene images with color palettes. All effects come with preset color selections and are configured without segment settings, making them applicable to any WLED instance. You only need to adjust the effect speed according to your preference.
+In this repository, you will find various meticulously crafted WLED Scenes along with their JSON configurations and corresponding scene images with color palettes. All Scenes come with preset color selections and are configured without segment settings, making them applicable to any WLED instance. You only need to adjust the effect speed according to your preference.
 
 ## Directory Structure
 
-- **Bilder**: This folder contains images of the WLED effects.
+- **Bilder**: This folder contains images of the WLED Scenes.
 - **API-Commands**: This folder contains the JSON structures of the WLED presets.
 
 ## Installation
@@ -20,9 +20,9 @@ In this repository, you will find various meticulously crafted WLED effects alon
    
 5. Finally, click on "Save", and you're done.
 
-## WLED-Effects
+## WLED-Scenes
 
-Here is a list of available WLED effects:
+Here is a list of available WLED Scenes:
 
 
 
