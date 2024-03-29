@@ -1,6 +1,6 @@
 # WLED-SCENES
 ![Collage](/bilder/collage.png)
-In this repository, you will find various meticulously crafted WLED Scenes along with their JSON configurations and corresponding scene images with color palettes. All Scenes come with preset color selections and are configured without segment settings, making them applicable to any WLED instance. You only need to adjust the effect speed according to your preference.
+In this repository, you will find various meticulously crafted WLED Scenes along with their JSON configurations (API-Commands) and corresponding scene images with color palettes, inspired by the Hue app, which also provides images matching the scenes. All scenes come with preset color selections and effects. Additionally, they are configured without segment settings, making them applicable to mostly any WLED instance. You can simply adjust the effect speed according to your preference.
 
 ## Directory Structure
 
