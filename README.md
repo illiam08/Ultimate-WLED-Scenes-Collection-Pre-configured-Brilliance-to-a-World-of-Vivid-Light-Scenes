@@ -11,6 +11,16 @@ Alle Effekte haben bereits eine voreingestellte Farbauswahl. Zudem sind alle Eff
 ## Installation
 
 
+1. Gehe in deiner WLED-Weboberfläche auf die Preset-Seite.
+   
+2. Klicke dann auf das "+"-Symbol, um ein neues Preset zu erstellen und ändere den Namen zur entsprechenden Szene.
+   
+3. Klicke dann wiederum auf das eben erstellte Preset, um Zugang zur API-Command zu bekommen.
+   
+4. Füge hier nun den JSON-Code aus dem "JSON-Code"-Ordner ein. **WICHTIG:** Es dürfen keine Leerzeichen im API-Command verbleiben, da dies sonst zu Abstürzen führen kann durch Syntaxfehler.
+   
+5. Klicke anschließend auf "Speichern" und du bist fertig.
+
 ## WLED-Effekte
 
 Hier ist eine Liste der verfügbaren WLED-Effekte:
