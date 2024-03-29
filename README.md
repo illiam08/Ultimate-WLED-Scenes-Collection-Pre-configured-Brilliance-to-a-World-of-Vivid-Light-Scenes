@@ -92,7 +92,7 @@ Ein Effekt, der den sanften Übergang vom Dunkel zum Licht zeigt.
 ```
 ##  **Kristallhöhe**: 
 Ein Effekt, der die klaren Farben und die Eleganz von Kristallen darstellt.
-  ![Kristallhöhe](/bilder/kristallhöhe.png)
+  ![kristallhöhe](/bilder/kristallhöhe.png)
 ```json
 {"bri":130,"seg":[{"id":0,"col":[[0,255,255],[128,0,128],[255,255,255]],"fx":102,"sx":90,"ix":230,"pal":5},{"id":1,"col":[[0,255,255],[128,0,128],[255,255,255]],"fx":102,"sx":90,"ix":230,"pal":5}]}
 ```
