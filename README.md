@@ -41,10 +41,10 @@ Hier ist eine Liste der verfügbaren WLED-Effekte:
   ![Geisterstunde](/bilder/geisterstunde.png)
 
 - **Morgendämmerung**: Ein Effekt, der den sanften Übergang vom Dunkel zum Licht zeigt.
-  ![Morgendämmerung](/bilder/morgendaemmerung.png)
+  ![Morgendämmerung](/bilder/morgendämmerung.png)
 
 - **Kristallhöhe**: Ein Effekt, der die klaren Farben und die Eleganz von Kristallen darstellt.
-  ![Kristallhöhe](/bilder/kristallhoehe.png)
+  ![Kristallhöhe](/bilder/kristallhöhe.png)
 
 - **Tiefsee**: Ein Effekt, der die faszinierende Welt der Tiefsee erkundet.
   ![Tiefsee](bilder/tiefsee.png)
@@ -56,16 +56,16 @@ Hier ist eine Liste der verfügbaren WLED-Effekte:
   ![Galaktischer Zug](/bilder/galaktischerzug.png)
 
 - **Frühlingswiese**: Ein Effekt, der die Frische und Lebendigkeit einer Frühlingswiese einfängt.
-  ![Frühlingswiese](/bilder/fruehlingswiese.png)
+  ![Frühlingswiese](/bilder/frühlingswiese.png)
 
 - **Nordlichter**: Ein Effekt, der die mystische Schönheit der Nordlichter zeigt.
   ![Nordlichter](/bilder/nordlichter.png)
 
 - **Glühwürmchen**: Ein Effekt, der die sanften Lichter von Glühwürmchen im Dunkeln simuliert.
-  ![Glühwürmchen](/bilder/gluehwuermchen.png)
+  ![Glühwürmchen](/bilder/glühwürmchen.png)
 
-- **Nordlichter 2**: Ein Effekt, der eine weitere Darstellung der faszinierenden Nordlichter bietet.
-  ![Nordlichter 2](/bilder/nordlichter2.png)
+- **Nordlichter**: Ein Effekt, der eine weitere Darstellung der faszinierenden Nordlichter bietet.
+  ![Nordlichter 2](/bilder/nordlichter.png)
 
 - **Feuriger Himmel**: Ein Effekt, der die Hitze und Intensität eines feurigen Himmels zeigt.
   ![Feuriger Himmel](/bilder/feurigerhimmel.png)
@@ -77,7 +77,7 @@ Hier ist eine Liste der verfügbaren WLED-Effekte:
   ![Digitaler Regen](/bilder/digitalerregen.png)
 
 - **Mystische Dämmerung**: Ein Effekt, der die geheimnisvolle Stimmung einer mystischen Dämmerung einfängt.
-  ![Mystische Dämmerung](/bilder/mystischedaemmerung.png)
+  ![Mystische Dämmerung](/bilder/mystischedämmerung.png)
 
 - **Mondlichtklarheit**: Ein Effekt, der die klare und ruhige Atmosphäre einer mondhellen Nacht widerspiegelt.
   ![Mondlichtklarheit](/bilder/mondlichtklarheit.png)
@@ -89,10 +89,10 @@ Hier ist eine Liste der verfügbaren WLED-Effekte:
   ![Ruhe der Tiefe](/bilder/ruhedertiefe.png)
 
 - **Aurora Träume**: Ein Effekt, der die träumerische Schönheit eines Aurora-Himmels einfängt.
-  ![Aurora Träume](/bilder/auroratraeume.png)
+  ![Aurora Träume](/bilder/aurora.jpg)
   
 - **Wüstenhimmel**: Ein Effekt, der die Atmosphäre eines Wüstenhimmels nachahmt.
-  ![Wüstenhimmel](/bilder/wuestenhimmel.png)
+  ![Wüstenhimmel](/bilder/wüstenhimmel.png)
 
 
 Jeder Effekt wird von einem Bild begleitet, das eine Vorschau des Effekts zeigt. Die zugehörige JSON-Konfiguration ist ebenfalls verfügbar, um den Effekt in WLED zu reproduzieren.
