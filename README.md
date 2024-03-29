@@ -12,7 +12,7 @@ In diesem Repository findest du verschiedene sorgfältig erstellte WLED-Effekte 
 Hier ist eine Liste der verfügbaren WLED-Effekte:
 
 - **Sternennacht**: Ein Effekt, der die Sterne einer klaren Nacht darstellt.
-  ![Sternennacht](API%20commands/bilder/sternennacht.png)
+  ![Sternennacht](Bilder/sternennacht.png)
 
 - **Ozeanbrise**: Ein Effekt, der die beruhigende Atmosphäre einer Meeresbrise einfängt.
   ![Ozeanbrise](API%20commands/bilder/ozeanbrise.png)
