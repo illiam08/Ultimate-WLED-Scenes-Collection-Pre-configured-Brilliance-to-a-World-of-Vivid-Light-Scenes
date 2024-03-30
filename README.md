@@ -63,7 +63,7 @@ An effect that mimics the colorful glow of the aurora borealis.
   ![Polarlicht](/bilder/polarlicht.png)
   
 ```json
-{"bri":150,"seg":[{"id":0,"col":[[255,165,0],[255,0,0],[0,0,0]],"fx":47,"sx":80,"ix":220,"pal":5},{"id":1,"col":[[255,165,0],[255,0,0],[0,0,0]],"fx":47,"sx":80,"ix":220,"pal":5}]}
+{"bri":150,"seg":[{"id":0,"col":[[0,255,255],[0,128,255],[255,0,255]],"fx":101,"sx":50,"ix":240,"pal":5},{"id":1,"col":[[0,255,255],[0,128,255],[255,0,255]],"fx":101,"sx":50,"ix":240,"pal":5}]}
 ```
 
 ##  **Forest Magic**: 
