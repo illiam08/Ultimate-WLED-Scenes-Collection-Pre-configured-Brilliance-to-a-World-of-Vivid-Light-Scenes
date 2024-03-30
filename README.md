@@ -26,170 +26,266 @@ Here is a list of available WLED Scenes:
 
 
 
-##  **Sternennacht**: 
+##  **Starry Night**: 
 
 An effect depicting the stars of a clear night.
 
-  ![Sternennacht](/bilder/sternennacht.png)
+  ![Starry Night](/bilder/sternennacht.png)
+  
 ```json
 {"bri":120,"seg":[{"id":0,"col":[[0,0,255],[255,255,0],[0,255,0]],"fx":95,"sx":60,"ix":180,"pal":5},{"id":1,"col":[[0,0,255],[255,255,0],[0,255,0]],"fx":95,"sx":60,"ix":180,"pal":5}]}
 ```
-##  **Ozeanbrise**: 
- Ein Effekt, der die beruhigende Atmosphäre einer Meeresbrise einfängt.
-  ![Ozeanbrise](/bilder/ozeanbrise.png)
+
+##  **Ocean Breeze**: 
+
+An effect that captures the soothing atmosphere of a sea breeze.
+
+  ![Ocean Breeze](/bilder/ozeanbrise.png)
+  
 ```json
 {"bri":100,"seg":[{"id":0,"col":[[0,255,255],[0,0,255],[255,255,255]],"fx":43,"sx":150,"ix":200,"pal":5},{"id":1,"col":[[0,255,255],[0,0,255],[255,255,255]],"fx":43,"sx":150,"ix":200,"pal":5}]}
 ```
-##  **Lavastrom**: 
-Ein Effekt, der die fließende Bewegung von Lava simuliert.
-  ![Lavastrom](/bilder/lavastrom.png)
+
+##  **Lava Stream**: 
+
+An effect that simulates the flowing movement of lava.
+
+  ![Lava Stream](/bilder/lavastrom.png)
+  
 ```json
 {"bri":150,"seg":[{"id":0,"col":[[255,165,0],[255,0,0],[0,0,0]],"fx":47,"sx":80,"ix":220,"pal":5},{"id":1,"col":[[255,165,0],[255,0,0],[0,0,0]],"fx":47,"sx":80,"ix":220,"pal":5}]}
 ```
-##  **Polarlicht**: 
-Ein Effekt, der das farbenfrohe Leuchten des Polarlichts nachahmt.
+
+##  **Northern Lights**: 
+
+An effect that mimics the colorful glow of the aurora borealis.
+
   ![Polarlicht](/bilder/polarlicht.png)
+  
 ```json
 {"bri":150,"seg":[{"id":0,"col":[[255,165,0],[255,0,0],[0,0,0]],"fx":47,"sx":80,"ix":220,"pal":5},{"id":1,"col":[[255,165,0],[255,0,0],[0,0,0]],"fx":47,"sx":80,"ix":220,"pal":5}]}
 ```
-##  **Waldzauber**: 
-Ein Effekt, der die Magie eines verzauberten Waldes einfängt.
+
+##  **Forest Magic**: 
+
+An effect that captures the magic of an enchanted forest.
+
   ![Waldzauber](/bilder/waldzauber.png)
+  
 ```json
 {"bri":110,"seg":[{"id":0,"col":[[0,128,0],[255,255,0],[255,165,0]],"fx":52,"sx":120,"ix":230,"pal":5},{"id":1,"col":[[0,128,0],[255,255,0],[255,165,0]],"fx":52,"sx":120,"ix":230,"pal":5}]}
 ```
-##  **Kosmischer Nebel**: 
-Ein Effekt, der die geheimnisvolle Schönheit eines kosmischen Nebels darstellt.
-  ![Kosmischer Nebel](/bilder/kosmischernebel.png)
+
+##  **Cosmic Nebula**: 
+
+ An effect that depicts the mysterious beauty of a cosmic nebula.
+ 
+  ![Cosmic Nebula](/bilder/kosmischernebel.png)
+  
 ```json
 {"bri":140,"seg":[{"id":0,"col":[[255,0,255],[0,0,128],[255,255,255]],"fx":56,"sx":140,"ix":210,"pal":5},{"id":1,"col":[[255,0,255],[0,0,128],[255,255,255]],"fx":56,"sx":140,"ix":210,"pal":5}]}
 ```
-##  **Sonnenuntergang**: 
-Ein Effekt, der die warmen Farben eines Sonnenuntergangs widerspiegelt.
-  ![Sonnenuntergang](/bilder/sonnenuntergang.png)
+
+##  ** Sunset**: 
+
+An effect that reflects the warm colors of a sunset.
+
+  ![Sunset](/bilder/sonnenuntergang.png)
+  
 ```json
 {"bri":160,"seg":[{"id":0,"col":[[255,99,71],[255,140,0],[0,0,0]],"fx":63,"sx":170,"ix":190,"pal":5},{"id":1,"col":[[255,99,71],[255,140,0],[0,0,0]],"fx":63,"sx":170,"ix":190,"pal":5}]}
 ```
-##  **Zaubergarten**: 
-Ein Effekt, der die lebendigen Farben eines verzauberten Gartens zeigt.
-  ![Zaubergarten](/bilder/zaubergarten.png)
+
+##  **Enchanted Garden**: 
+
+ An effect that showcases the vibrant colors of an enchanted garden.
+ 
+  ![Enchanted Garden](/bilder/zaubergarten.png)
+  
 ```json
 {"bri":90,"seg":[{"id":0,"col":[[127,0,255],[0,255,127],[255,0,127]],"fx":78,"sx":130,"ix":240,"pal":5},{"id":1,"col":[[127,0,255],[0,255,127],[255,0,127]],"fx":78,"sx":130,"ix":240,"pal":5}]}
 ```
-##  **Geisterstunde**: 
-Ein Effekt, der die düstere Atmosphäre einer Geisterstunde einfängt.
-  ![Geisterstunde](/bilder/geisterstunde.png)
+
+##  **Witching Hour**: 
+
+An effect that captures the eerie atmosphere of the witching hour.
+
+  ![Witching Hour](/bilder/geisterstunde.png)
+  
 ```json
 {"bri":95,"seg":[{"id":0,"col":[[64,0,128],[255,0,255],[0,255,255]],"fx":101,"sx":110,"ix":215,"pal":5},{"id":1,"col":[[64,0,128],[255,0,255],[0,255,255]],"fx":101,"sx":110,"ix":215,"pal":5}]}
 ```
-##  **Morgendämmerung**: 
-Ein Effekt, der den sanften Übergang vom Dunkel zum Licht zeigt.
-  ![Morgendämmerung](/bilder/morgendämmerung.png)
+
+##  **Dawn**: 
+
+An effect that shows the gentle transition from darkness to light.
+
+  ![Dawn](/bilder/morgendämmerung.png)
+  
 ```json
 {"bri":120,"seg":[{"id":0,"col":[[255,107,0],[255,182,77],[0,0,0]],"fx":118,"sx":70,"ix":240,"pal":5},{"id":1,"col":[[255,107,0],[255,182,77],[0,0,0]],"fx":118,"sx":70,"ix":240,"pal":5}]}
 ```
-##  **Kristallhöhe**: 
-Ein Effekt, der die klaren Farben und die Eleganz von Kristallen darstellt.
-  ![kristallhöhe](/bilder/kristallhöhe.png)
+
+##  **Crystal Heights**: 
+
+An effect that represents the clear colors and elegance of crystals.
+
+  ![Crystal Heights](/bilder/kristallhöhe.png)
+  
 ```json
 {"bri":130,"seg":[{"id":0,"col":[[0,255,255],[128,0,128],[255,255,255]],"fx":102,"sx":90,"ix":230,"pal":5},{"id":1,"col":[[0,255,255],[128,0,128],[255,255,255]],"fx":102,"sx":90,"ix":230,"pal":5}]}
 ```
-##  **Tiefsee**: 
-Ein Effekt, der die faszinierende Welt der Tiefsee erkundet.
-  ![Tiefsee](bilder/tiefsee.png)
+
+##  **Deep Sea**: 
+
+An effect that explores the fascinating world of the deep sea.
+
+  ![Deep Sea](bilder/tiefsee.png)
+  
 ```json
 {"bri":110,"seg":[{"id":0,"col":[[0,0,128],[0,128,128],[0,255,255]],"fx":47,"sx":50,"ix":250,"pal":5},{"id":1,"col":[[0,0,128],[0,128,128],[0,255,255]],"fx":47,"sx":50,"ix":250,"pal":5}]}
 ```
-##  **Herbstwald**: 
-Ein Effekt, der die warmen Farben eines herbstlichen Waldes widerspiegelt.
-  ![Herbstwald](/bilder/herbstwald.png)
+
+##  **Autumn Forest**: 
+
+An effect that reflects the warm colors of an autumn forest.
+
+  ![Autumn Forest](/bilder/herbstwald.png)
+  
 ```json
 {"bri":140,"seg":[{"id":0,"col":[[255,102,0],[204,51,0],[0,0,0]],"fx":99,"sx":80,"ix":220,"pal":5},{"id":1,"col":[[255,102,0],[204,51,0],[0,0,0]],"fx":99,"sx":80,"ix":220,"pal":5}]}
 ```
-##  **Galaktischer Zug**: 
-Ein Effekt, der die dynamische Bewegung eines galaktischen Zuges zeigt.
-  ![Galaktischer Zug](/bilder/galaktischerzug.png)
+
+##  **Galactic Train**: 
+
+An effect that shows the dynamic movement of a galactic train.
+
+  ![Galactic Train](/bilder/galaktischerzug.png)
+  
 ```json
 {"bri":150,"seg":[{"id":0,"col":[[255,0,0],[0,0,255],[255,255,0]],"fx":56,"sx":100,"ix":200,"pal":5},{"id":1,"col":[[255,0,0],[0,0,255],[255,255,0]],"fx":56,"sx":100,"ix":200,"pal":5}]}
 ```
-##  **Frühlingswiese**: 
-Ein Effekt, der die Frische und Lebendigkeit einer Frühlingswiese einfängt.
-  ![Frühlingswiese](/bilder/frühlingswiese.png)
+
+##  **Spring Meadow**: 
+
+An effect that captures the freshness and vitality of a spring meadow.
+
+  ![Spring Meadow](/bilder/frühlingswiese.png)
+  
 ```json
 {"bri":135,"seg":[{"id":0,"col":[[127,255,0],[255,255,127],[0,255,127]],"fx":52,"sx":75,"ix":230,"pal":13},{"id":1,"col":[[127,255,0],[255,255,127],[0,255,127]],"fx":52,"sx":75,"ix":230,"pal":13}]}
 ```
-##  **Nordlichter**: 
-Ein Effekt, der die mystische Schönheit der Nordlichter zeigt.
-  ![Nordlichter](/bilder/nordlichter.png)
+
+##  **Northern Lights**: 
+
+An effect that showcases the mystical beauty of the northern lights.
+
+  ![Northern Lights](/bilder/nordlichter.png)
+  
 ```json
 {"bri":130,"seg":[{"id":0,"col":[[102,204,255],[5,255,178],[255,255,255]],"fx":26,"sx":100,"ix":250,"pal":5},{"id":1,"col":[[102,204,255],[5,255,178],[255,255,255]],"fx":26,"sx":100,"ix":250,"pal":5}]}
 ```
-##  **Glühwürmchen**: 
-Ein Effekt, der die sanften Lichter von Glühwürmchen im Dunkeln simuliert.
-  ![Glühwürmchen](/bilder/glühwürmchen.png)
+
+##  **Fireflies**: 
+
+An effect that simulates the gentle lights of fireflies in the dark.
+
+  ![Fireflies](/bilder/glühwürmchen.png)
+  
 ```json
 {"bri":110,"seg":[{"id":0,"col":[[255,255,0],[0,0,0],[0,0,0]],"fx":88,"sx":30,"ix":255,"pal":5},{"id":1,"col":[[255,255,0],[0,0,0],[0,0,0]],"fx":88,"sx":30,"ix":255,"pal":5}]}
 ```
-##  **Nordlichter**: 
-Ein Effekt, der eine weitere Darstellung der faszinierenden Nordlichter bietet.
-  ![Nordlichter 2](/bilder/nordlichter.png)
-```json
-{"bri":140,"seg":[{"id":0,"col":[[255,102,0],[204,51,0],[0,0,0]],"fx":99,"sx":80,"ix":220,"pal":5},{"id":1,"col":[[255,102,0],[204,51,0],[0,0,0]],"fx":99,"sx":80,"ix":220,"pal":5}]}
-```
-##  **Feuriger Himmel**: 
-Ein Effekt, der die Hitze und Intensität eines feurigen Himmels zeigt.
-  ![Feuriger Himmel](/bilder/feurigerhimmel.png)
+
+##  **Fiery Sky**: 
+
+An effect that shows the heat and intensity of a fiery sky.
+
+  ![Fiery Sky](/bilder/feurigerhimmel.png)
+  
 ```json
 {"bri":170,"seg":[{"id":0,"col":[[255,69,0],[255,140,0],[255,0,0]],"fx":62,"sx":45,"ix":210,"pal":5},{"id":1,"col":[[255,69,0],[255,140,0],[255,0,0]],"fx":62,"sx":45,"ix":210,"pal":5}]}
 ```
-##  **Zen Garten**: 
-Ein Effekt, der die Ruhe und Harmonie eines Zen-Gartens vermittelt.
-  ![Zen Garten](/bilder/zengarten.png)
+
+##  **Zen Garden**: 
+
+An effect that conveys the peace and harmony of a zen garden.
+
+  ![Zen Garden](/bilder/zengarten.png)
+  
 ```json
 {"bri":160,"seg":[{"id":0,"col":[[128,128,128],[255,255,255],[0,255,0]],"fx":56,"sx":35,"ix":240,"pal":5},{"id":1,"col":[[128,128,128],[255,255,255],[0,255,0]],"fx":56,"sx":35,"ix":240,"pal":5}]}
 ```
-##  **Digitaler Regen**: 
-Ein Effekt, der den beruhigenden Anblick von digitalem Regen simuliert.
-  ![Digitaler Regen](/bilder/digitalerregen.png)
+
+##  **Digital Rain**: 
+
+An effect that simulates the calming sight of digital rain.
+
+  ![Digital Rain](/bilder/digitalerregen.png)
+  
 ```json
 {"bri":190,"seg":[{"id":0,"col":[[0,255,0],[0,128,0],[0,64,0]],"fx":90,"sx":15,"ix":250,"pal":5},{"id":1,"col":[[0,255,0],[0,128,0],[0,64,0]],"fx":90,"sx":15,"ix":250,"pal":5}]}
 ```
-##  **Mystische Dämmerung**: 
-Ein Effekt, der die geheimnisvolle Stimmung einer mystischen Dämmerung einfängt.
-  ![Mystische Dämmerung](/bilder/mystischedämmerung.png)
+
+##  **Mystical Twilight**: 
+
+An effect that captures the mysterious mood of a mystical twilight.
+
+  ![Mystical Twilight](/bilder/mystischedämmerung.png)
+  
 ```json
 {"bri":175,"seg":[{"id":0,"col":[[75,0,130],[255,20,147],[0,0,128]],"fx":73,"sx":55,"ix":230,"pal":5},{"id":1,"col":[[75,0,130],[255,20,147],[0,0,128]],"fx":73,"sx":55,"ix":230,"pal":5}]}
 ```
-##  **Mondlichtklarheit**: 
-Ein Effekt, der die klare und ruhige Atmosphäre einer mondhellen Nacht widerspiegelt.
-  ![Mondlichtklarheit](/bilder/mondlichtklarheit.png)
+
+##  **Moonlight Clarity**: 
+
+An effect that reflects the clear and calm atmosphere of a moonlit night.
+
+  ![Moonlight Clarity](/bilder/mondlichtklarheit.png)
+  
 ```json
 {"bri":130,"seg":[{"id":0,"col":[[220,220,255],[192,192,255],[0,0,0]],"fx":75,"sx":20,"ix":250,"pal":5},{"id":1,"col":[[220,220,255],[192,192,255],[0,0,0]],"fx":75,"sx":20,"ix":250,"pal":5}]}
 ```
-##  **Funkelnder Weinberg**: 
-Ein Effekt, der die romantische Atmosphäre eines funkelnden Weinbergs zeigt.
-  ![Funkelnder Weinberg](/bilder/funkelnderweinberg.png)
+
+##  **Sparkling Vineyard**: 
+
+An effect that shows the romantic atmosphere of a sparkling vineyard.
+
+  ![Sparkling Vineyard](/bilder/funkelnderweinberg.png)
+  
 ```json
 {"bri":145,"seg":[{"id":0,"col":[[153,0,153],[51,204,51],[0,255,0]],"fx":88,"sx":60,"ix":220,"pal":5},{"id":1,"col":[[153,0,153],[51,204,51],[0,255,0]],"fx":88,"sx":60,"ix":220,"pal":5}]}
 ```
-##  **Ruhe der Tiefe**: 
-Ein Effekt, der die Stille und Tiefe eines ruhigen Ozeans darstellt.
-  ![Ruhe der Tiefe](/bilder/ruhedertiefe.png)
+
+##  **Depth Tranquility**: 
+
+An effect that represents the silence and depth of a calm ocean.
+
+  ![Depth Tranquility](/bilder/ruhedertiefe.png)
+  
 ```json
 {"bri":120,"seg":[{"id":0,"col":[[0,51,102],[0,76,153],[0,0,0]],"fx":47,"sx":25,"ix":255,"pal":5},{"id":1,"col":[[0,51,102],[0,76,153],[0,0,0]],"fx":47,"sx":25,"ix":255,"pal":5}]}
 ```
-##  **Aurora Träume**: 
-Ein Effekt, der die träumerische Schönheit eines Aurora-Himmels einfängt.
-  ![Aurora Träume](/bilder/aurora.jpg)
+
+##  **Aurora Dreams**: 
+
+An effect that captures the dreamy beauty of an aurora-filled sky.
+
+  ![Aurora Dreams](/bilder/aurora.jpg)
+  
 ```json
 {"bri":160,"seg":[{"id":0,"col":[[255,192,203],[135,206,235],[173,216,230]],"fx":26,"sx":30,"ix":200,"pal":5},{"id":1,"col":[[255,192,203],[135,206,235],[173,216,230]],"fx":26,"sx":30,"ix":200,"pal":5}]}
-```  
-##  **Wüstenhimmel**: 
-Ein Effekt, der die Atmosphäre eines Wüstenhimmels nachahmt.
-  ![Wüstenhimmel](/bilder/wüstenhimmel.png)
+```
+
+##  **Desert Sky**: 
+
+ An effect that mimics the atmosphere of a desert sky.
+ 
+  ![Desert Sky](/bilder/wüstenhimmel.png)
+  
 ```json
 {"bri":155,"seg":[{"id":0,"col":[[255,140,0],[255,165,0],[64,224,208]],"fx":63,"sx":45,"ix":215,"pal":5},{"id":1,"col":[[255,140,0],[255,165,0],[64,224,208]],"fx":63,"sx":45,"ix":215,"pal":5}]}
 ```
+
 
 
 
