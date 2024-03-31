@@ -1,4 +1,4 @@
-# WLED-SCENES
+# Ultimate WLED Scenes Collection: Pre-configured Brilliance to a World of Vivid Light Scenes
 
 
 ![Collage](/bilder/collage.png)
