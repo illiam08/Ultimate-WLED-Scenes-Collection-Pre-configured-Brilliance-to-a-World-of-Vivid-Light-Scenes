@@ -134,7 +134,7 @@ An effect that shows the gentle transition from darkness to light.
   ![Dawn](/bilder/morgendämmerung.png)
   
 ```json
-{"bri":120,"seg":[{"id":0,"col":[[255,107,0],[255,182,77],[0,0,0]],"fx":118,"sx":70,"ix":240,"pal":5},{"id":1,"col":[[255,107,0],[255,182,77],[0,0,0]],"fx":118,"sx":70,"ix":240,"pal":5}]}
+{"bri":120,"seg":[{"id":0,"col":[[255,107,0],[255,182,77],[0,0,0]],"fx":60,"sx":10,"ix":125,"pal":5},{"id":1,"col":[[255,107,0],[255,182,77],[0,0,0]],"fx":118,"sx":70,"ix":240,"pal":5}]}
 ```
 
 ##  **Crystal Heights**: 
