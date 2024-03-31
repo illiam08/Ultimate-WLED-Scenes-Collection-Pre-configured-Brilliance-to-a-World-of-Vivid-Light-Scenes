@@ -2,6 +2,18 @@
 ![Collage](/bilder/collage.png)
 In this repository, you will find various meticulously crafted WLED Scenes along with their JSON configurations (API-Commands) and corresponding scene images with color palettes, inspired by the Hue app, which also provides images matching the scenes. All scenes come with preset color selections and effects. Additionally, they are configured without segment settings, making them applicable to mostly any WLED instance. You can simply adjust the effect speed according to your preference.
 
+
+
+**Welcome to a World of Vivid Light Scenes!**
+
+Dive into my carefully curated repository, showcasing a diverse collection of WLED scenes, complete with their JSON configurations and vibrant images that perfectly capture each scene's essence. This collection, inspired by the dynamics and diversity of Hue app scene images, offers you a palette of colors and effects to transform your home into whatever atmosphere you choose.
+
+I've designed each scene with attention to detail, featuring a preset selection of colors and effects that work without specific segment settings. This makes them universally applicable to almost any WLED installation. You have the freedom to adjust the effects' speed to your liking, creating your own perfect lighting mood.
+
+I invite you to explore this collection, find your favorites, and modify them as you wish. Share your experiences and own creations with the community, to enrich the world of WLED scenes together. Enjoy discovering and creating!
+
+
+
 ## Directory Structure
 
 - **Bilder**: This folder contains images of the WLED Scenes.
