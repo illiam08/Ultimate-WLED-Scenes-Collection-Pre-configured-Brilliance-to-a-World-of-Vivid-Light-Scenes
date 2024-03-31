@@ -16,6 +16,7 @@ I invite you to explore this collection, find your favorites, and modify them as
 ## Directory Structure
 
 - **Bilder**: This folder contains images of the WLED Scenes.
+- **Bilder_clean**: This folder contains images of the WLED Scenes, without the color palette.
 - **API-Commands**: This folder contains the JSON structures of the WLED presets.
 
 ## Installation
