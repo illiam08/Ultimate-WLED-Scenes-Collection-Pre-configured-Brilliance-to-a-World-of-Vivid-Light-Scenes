@@ -5,7 +5,7 @@
 
 **Welcome to a World of Vivid Light Scenes!**
 
-Dive into my carefully curated repository, showcasing a diverse collection of WLED scenes, complete with their API-Command (JSON) configurations and vibrant images that perfectly capture each scene's essence. This collection, inspired by the dynamics and diversity of the Phillips Hue app scene images, offers you a palette of colors and effects to transform your home into whatever atmosphere you choose.
+Dive into my carefully curated repository, showcasing a diverse collection of WLED scenes, complete with their API-Command (JSON configurations) and vibrant images that perfectly capture each scene's essence. This collection, inspired by the dynamics and diversity of the Phillips Hue app scene images, offers you a palette of colors and effects to transform your home into whatever atmosphere you choose.
 
 I've designed each scene with attention to detail, featuring a preset selection of colors and effects that work without specific segment settings. This makes them universally applicable to almost any WLED installation. You have the freedom to adjust the effects' speed to your liking, creating your own perfect lighting mood.
 
