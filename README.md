@@ -21,7 +21,7 @@ Please note that I have removed the options for the second segment from the JSON
 
 ### Additionally, I have created a backup file that allows for installing all presets with just one click in WLED. To do this, follow these steps:
 
-1. Open the WLED user interface and click on "Options".
+1. Open the WLED user interface and click on "Config".
 2. Select "Security & Updates".
 3. Under "Backup & Restore", click on "Restore Presets".
 4. Select the backup file that you can find in the folder structure.
