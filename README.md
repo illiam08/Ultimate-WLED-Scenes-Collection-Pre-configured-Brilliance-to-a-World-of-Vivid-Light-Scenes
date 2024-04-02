@@ -30,6 +30,9 @@ Please note that I have removed the options for the second segment from the JSON
    
 After completing these steps, all presets should have been successfully added. If you have any questions or encounter any issues, feel free to reach out for assistance.
 
+
+Special thanks to Reddit u/No_Heron_5205
+
    
 ## Directory Structure
 
