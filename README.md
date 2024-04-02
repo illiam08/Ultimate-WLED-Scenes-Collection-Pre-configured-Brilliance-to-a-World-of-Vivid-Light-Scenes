@@ -11,15 +11,34 @@ I've designed each scene with attention to detail, featuring a preset selection 
 
 I invite you to explore this collection, find your favorites, and modify them as you wish. Share your experiences and own creations with the community, to enrich the world of WLED scenes together. Enjoy discovering and creating!
 
+# Changes to v1.1
 
+## Change to the JSON APIs:
 
+Please note that I have removed the options for the second segment from the JSON APIs to improve compatibility. This should not affect the functionality of the scenes but rather enhance the stability and performance of integration with the WLED platform.
+
+## Backup file for One Click installation of all presets:
+
+### Additionally, I have created a backup file that allows for installing all presets with just one click in WLED. To do this, follow these steps:
+
+1. Open the WLED user interface and click on "Options".
+2. Select "Security & Updates".
+3. Under "Backup & Restore", click on "Restore Presets".
+4. Select the backup file that you can find in the folder structure.
+5. Click on "Upload".
+6. Save the settings.
+   
+After completing these steps, all presets should have been successfully added. If you have any questions or encounter any issues, feel free to reach out for assistance.
+
+   
 ## Directory Structure
 
 - **Bilder**: This folder contains images of the WLED Scenes.
 - **Bilder_clean**: This folder contains images of the WLED Scenes, without the color palette.
 - **API-Commands**: This folder contains the JSON structures of the WLED presets.
+- **Backup Preset File**: This folder contains the Backup Preset File.
 
-## Installation
+## Installation of single presets
 
 
 1. Go to the preset page in your WLED web interface.
