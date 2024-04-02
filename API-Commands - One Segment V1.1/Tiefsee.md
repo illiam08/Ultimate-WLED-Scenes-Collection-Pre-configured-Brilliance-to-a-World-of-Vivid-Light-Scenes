@@ -1,0 +1,6 @@
+# Tiefsee
+
+![Tiefsee](bilder/Tiefsee.png)
+
+```json
+{"bri":110,"seg":[{"id":0,"col":[[0,0,128],[0,128,128],[0,255,255]],"fx":47,"sx":50,"ix":250,"pal":5}]}
